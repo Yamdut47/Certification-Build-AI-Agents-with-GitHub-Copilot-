@@ -1,4 +1,5 @@
-[CertificateOfCompletion_Build AI Agents with GitHub Copilot by Microsoft Press.pdf](https://github.com/user-attachments/files/32913066/CertificateOfCompletion_Build.AI.Agents.with.GitHub.Copilot.by.Microsoft.Press.pdf)
+<img width="554" height="400" alt="Screenshot 2026-10-01 182650" src="https://github.com/user-attachments/assets/6014f39f-f5b4-44ae-9ec5-b547fa4ea4a1" />
+
 
 # Build AI Agents with GitHub Copilot
 
